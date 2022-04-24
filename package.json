@@ -1,0 +1,23 @@
+{
+  "name": "jodienpm",
+  "version": "1.0.0",
+  "description": "This is Jodie's blog",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jodie-zhong/jodie-zhong.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jodie-zhong/jodie-zhong.github.io/issues"
+  },
+  "homepage": "https://github.com/jodie-zhong/jodie-zhong.github.io#readme",
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  }
+}
