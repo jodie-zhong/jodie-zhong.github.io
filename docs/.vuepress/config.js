@@ -6,6 +6,7 @@ module.exports = {
     ],
     themeConfig: {
         logo: '/jodie.jpg',
+        repo: "jodie-zhong/jodie-zhong.github.io",
         darkMode: false
     }
 }
